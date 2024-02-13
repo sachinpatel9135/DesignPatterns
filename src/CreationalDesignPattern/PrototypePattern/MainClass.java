@@ -1,4 +1,4 @@
-package PrototypePattern;
+package CreationalDesignPattern.PrototypePattern;
 
 public class MainClass {
     public static void main(String[] args) {

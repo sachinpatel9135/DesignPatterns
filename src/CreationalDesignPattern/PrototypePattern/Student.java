@@ -1,4 +1,4 @@
-package PrototypePattern;
+package CreationalDesignPattern.PrototypePattern;
 
 public class Student implements Prototype{
     int age;
